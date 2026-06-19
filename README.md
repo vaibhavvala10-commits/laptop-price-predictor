@@ -24,10 +24,15 @@ Machine learning project for predicting laptop prices from hardware specificatio
 laptop-price-predictor/
 
 ├── app.py
+
 ├── df.pkl
+
 ├── pipe.pkl
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ## Installation
