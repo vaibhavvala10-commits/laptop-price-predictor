@@ -22,6 +22,7 @@ Machine learning project for predicting laptop prices from hardware specificatio
 ## Project Structure
 
 laptop-price-predictor/
+
 ├── app.py
 ├── df.pkl
 ├── laptop-price-predictor.ipynb
