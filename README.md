@@ -39,20 +39,6 @@ laptop-price-predictor/
 
 └── README.md
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/vaibhavvala10-commits/laptop-price-predictor.git
-
-2. Move into the project directory:
-   cd laptop-price-predictor
-
-3. Install dependencies:
-   pip install -r requirements.txt
-
-4. Run the application:
-   streamlit run app.py
-
 ## Usage
 
 1. Select laptop specifications:
